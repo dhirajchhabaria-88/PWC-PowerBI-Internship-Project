@@ -15,5 +15,4 @@ Define proper KPIs Create a dashboard for the retention manager reflecting the K
 Calculating the following measures could help to define proper KPIs:
 number of men number of women number of leavers % employees promoted (FY21) % of women promoted % of hires men % of hires women % turnover Average performance rating: men Average Performance rating: women
 
-Your task is to do the following:
-Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation Write what you think some root causes of their slow progress might be.
+
